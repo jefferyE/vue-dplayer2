@@ -1,0 +1,41 @@
+{
+  "name": "vue-dplayer2",
+  "version": "1.0.0",
+  "description": "A player based dplayerjs and vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefferyE/vue-dplayer2.git"
+  },
+  "keywords": [
+    "dplayer",
+    "vue",
+    "video",
+    "javascript",
+    "vue-dplayer",
+    "html5",
+    "flv",
+    "hls"
+  ],
+  "author": "jefferyE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefferyE/vue-dplayer2/issues"
+  },
+  "homepage": "https://github.com/jefferyE/vue-dplayer2#readme",
+  "dependencies": {
+    "@types/dplayer": "^1.25.0",
+    "@types/hls.js": "^0.13.3",
+    "dplayer": "^1.26.0",
+    "flv.js": "^1.5.0",
+    "hls.js": "^0.14.17"
+  },
+  "devDependencies": {
+    "@types/eslint": "^7.2.6",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.17.0"
+  }
+}
