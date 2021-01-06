@@ -1,6 +1,6 @@
 {
   "name": "vue-dplayer2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A player based dplayerjs and vuejs",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,8 @@
     "vue-dplayer",
     "html5",
     "flv",
+    "m3u8",
+    "mp4",
     "hls"
   ],
   "author": "jefferyE",
