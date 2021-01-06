@@ -20,7 +20,6 @@ A player based [dplayer](https://github.com/DIYgod/DPlayer) and vuejs!
 <script type="text/javascript" src="path/to/hls.min.js"></script>
 
 <script type="text/javascript" src="path/to/DPlayer.min.js"></script>
-<script type="text/javascript" src="path/to/dist/vue-video-player.js"></script>
 ```
 #### mount with global
 
