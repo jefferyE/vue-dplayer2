@@ -1,6 +1,6 @@
 {
   "name": "vue-dplayer2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A player based dplayerjs and vuejs",
   "main": "index.js",
   "scripts": {

@@ -4,11 +4,11 @@ import Dplayer from './player';
 window.DPlayer = dplayer; // provide for player.vue
 
 const VueDPlayer = function (Vue) {
-  if (Vue.installed) return;
+  if (VueDPlayer.installed) return;
 
   Vue.component('vue-dplayer', Dplayer);
 
-  Vue.installed = true;
+  VueDPlayer.installed = true;
 }
 
 window.VueDPlayer = VueDPlayer;
